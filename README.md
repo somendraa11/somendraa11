@@ -20,7 +20,7 @@
 -->
 - 🌱 I’m currently learning **Firebase**
 - 💬 Ask me about anything related to Frontend Development, UI/UX, and related tech stack - React, Next
-- 📫 Reach me at somendra.nhn@gmail.com
+- 📫 Feel free to reach out to me via [email](somendra.nhn@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/somendraaggarwal11/)
   <!--
 -  👯 I’m looking to collaborate...
 - 🤔 I’m looking for help with...

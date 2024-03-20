@@ -9,12 +9,11 @@
 
 
 <p>Frontend Developer | Data Structures & Algorithms Enthusiast</p>
+<p>Welcome to my GitHub Profile! Here you'll find a collection of my projects, contributions, and explorations.  </p>
 
 <!--
 **somendraa11/somendraa11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 -->
-
 <!--
 - 🔭 I’m currently working on  
 -->

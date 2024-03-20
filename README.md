@@ -18,8 +18,8 @@
 <!--
 - 🔭 I’m currently working on  
 -->
-- 🌱 I’m currently learning Firebase and Data Structures
-- 💬 Ask me about anything related to React.js, Next.js, UI/UX
+- 🌱 I’m currently learning **Firebase**
+- 💬 Ask me about anything related to Frontend Development, UI/UX, and related tech stack - React, Next
 - 📫 Reach me at somendra.nhn@gmail.com
   <!--
 -  👯 I’m looking to collaborate...

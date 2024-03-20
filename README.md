@@ -1,6 +1,10 @@
-#                  Hey, I'm Somendra
+<h2 align="center">
+  Hey, I'm Somendra
+</h2>
 
-### Computer Science and Engineering Student at NIT Hamirpur
+<h4 align="center">
+ Computer Science and Engineering Student at NIT Hamirpur
+</h4>
 
 <!--
 **somendraa11/somendraa11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

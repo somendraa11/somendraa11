@@ -2,9 +2,11 @@
   Hey, I'm Somendra
 </h1>
 
-<h3 align="center">
+
+<h4 align="center">
  Computer Science and Engineering Student at NIT Hamirpur
-</h3>
+</h4>
+
 
 <p>Frontend Developer | Data Structures & Algorithms Enthusiast</p>
 
